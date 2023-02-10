@@ -72,6 +72,7 @@
 .owl-carousel .owl-dot,
 .owl-carousel .owl-nav .owl-next,
 .owl-carousel .owl-nav .owl-prev {
+    margin-top: 65px;
     cursor: pointer;
     cursor: hand;
     -webkit-user-select: none;
